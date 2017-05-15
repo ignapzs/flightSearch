@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ignapzs/flightSearch.svg?branch=master)](https://travis-ci.org/ignapzs/flightSearch)
 # Flight search
 
 ## Problem
