@@ -21,7 +21,7 @@
         <cobertura.version>[2.7,)</cobertura.version>
         <coveralls.version>[4.3.0,)</coveralls.version>
         <cucumber.java.version>[1.2.5,)</cucumber.java.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>1.10.19</mockito.version>
         <powermock.api.version>1.6.5</powermock.api.version>
         <scoverage.version>[0.99.10,)</scoverage.version>
